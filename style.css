@@ -4,7 +4,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  
 }
 
 p {
@@ -87,14 +86,6 @@ main {
   padding: 2em;
 }
 
-/* .prop img {
-  border-bottom: 2px black;
-  border-style: groove;
-  border-top:#333;
-  border-left: #333;
-  border-right: #333;
-
-} */
 
 .galerij {
   display: flex;
@@ -230,10 +221,6 @@ footer {
 }
 
 
-.firstdate figcaption {
-  text-align: center;
-  display: block;
-}
 
 
 
